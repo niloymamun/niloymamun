@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloymamun&label=Profile%20views&color=0e75b6&style=flat" alt="niloymamun" /> </p>
 
-- 🔭 I’m currently working on NIPRO JAMI PHARMA LTD. [https://www.niprojmipharma.com/](https://www.niprojmipharma.com/)
+- 🔭 I’m currently working on NIPRO JMI PHARMA LTD. [https://www.niprojmipharma.com/](https://www.niprojmipharma.com/)
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
