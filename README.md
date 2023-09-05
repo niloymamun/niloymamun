@@ -1,4 +1,5 @@
-![logo](https://github.com/niloymamun/niloymamun/blob/main/GIT.png)
+
+<img src="./GIT.png" width="90%">
 <h1 align="center">Hi 👋, I'm ABDULLAH AL MAMUN</h1>
 <h3 align="center">Passionate Flutter Developer Building Beautiful Mobile Experiences 🚀" from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
