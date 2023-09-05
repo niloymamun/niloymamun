@@ -33,8 +33,8 @@
 1. Diploma in Computer Science & Engineering </br>
    Chandpur Polytechnic Institute.  
    Kachua, Chandput.
-2. SSC in Science. </br>
-   Harishchar Union High School & College.
+2. SSC in Science.</br> 
+   Harishchar Union High School & College.</br>
    Cumilla, Bangladesh.
 
 
