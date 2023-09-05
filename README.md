@@ -31,10 +31,10 @@
 ### 👨🏻‍🎓 &nbsp; Education
 
 1. Diploma in Computer Science & Engineering </br>
-   Chandpur Polytechnic Institute.</br>  
+   Chandpur Polytechnic Institute.  
    Kachua, Chandput.
-2. SSC in Science </br>
-   Harishchar Union High School & College.</br>  
+2. SSC in Science. </br>
+   Harishchar Union High School & College.
    Cumilla, Bangladesh.
 
 
