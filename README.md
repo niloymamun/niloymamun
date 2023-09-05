@@ -64,3 +64,10 @@
 
 <br />
 <!-- my sports and games section ends here  -->
+
+---
+
+Thanks for going through my Portfolio.
+All rights reserved by neloymamun06@
+
+---
