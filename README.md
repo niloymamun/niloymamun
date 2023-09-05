@@ -26,3 +26,41 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niloymamun&show_icons=true&locale=en" alt="niloymamun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niloymamun&" alt="niloymamun" /></p>
+<!-- education section starts here  -->
+
+### 👨🏻‍🎓 &nbsp; Education
+
+1. Diploma in Computer Science & Engineering </br>
+   Chandpur Polytechnic Institute.</br>  
+   Kachua, Chandput.
+2. SSC in Science </br>
+   Harishchar Union High School & College.</br>  
+   Cumilla, Bangladesh.
+
+
+<br />
+
+<!-- education section ends here  -->
+
+<!-- my languages section starts here  -->
+
+### Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
+- 🇮🇳 Hindi : Intermediate
+
+  <br />
+
+<!-- my languages section ends here  -->
+
+<!-- my sports and game section starts here  -->
+
+### Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+<br />
+<!-- my sports and games section ends here  -->
