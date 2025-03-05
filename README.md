@@ -19,7 +19,7 @@
 <a href="https://fb.com/https://www.facebook.com/neloy.mamun.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/neloy.mamun.1/" height="40" width="40" /></a>
    <a href="https://www.youtube.com/@codermamun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codermamun" height="30" width="50" /></a>
    <a href="https://t.me/+gbr6lhsArnVhMDU1" target="blank"><img align="center" src="https://github.com/niloymamun/niloymamun/blob/main/telegram.png" alt="https://t.me/+gbr6lhsArnVhMDU1" height="40" width="40" /></a>
-   <a href="https://t.me/+gbr6lhsArnVhMDU1" target="blank"><img align="center" src="https://github.com/niloymamun/niloymamun/blob/main/whatsapp.png" alt="https://t.me/+gbr6lhsArnVhMDU1" height="40" width="40" /></a>
+   <a href="https://api.whatsapp.com/message/DUHLS7QEWES5H1?autoload=1&app_absent=0" target="blank"><img align="center" src="https://github.com/niloymamun/niloymamun/blob/main/whatsapp.png" alt="[https://t.me/+gbr6lhsArnVhMDU1](https://api.whatsapp.com/message/DUHLS7QEWES5H1?autoload=1&app_absent=0)" height="40" width="40" /></a>
    
 </p>
 
