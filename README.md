@@ -21,7 +21,7 @@
    <a href="https://t.me/+gbr6lhsArnVhMDU1" target="blank"><img align="center" src="https://github.com/niloymamun/niloymamun/blob/main/telegram.png" alt="https://t.me/+gbr6lhsArnVhMDU1" height="40" width="40" /></a>
    <a href="https://api.whatsapp.com/message/DUHLS7QEWES5H1?autoload=1&app_absent=0" target="blank"><img align="center" src="https://github.com/niloymamun/niloymamun/blob/main/whatsapp.png" alt="[https://t.me/+gbr6lhsArnVhMDU1](https://api.whatsapp.com/message/DUHLS7QEWES5H1?autoload=1&app_absent=0)" height="40" width="40" /></a>
 
-   <a href="https://www.instagram.com/neloy_mamun/" target="blank"><img align="center" src="https://github.com/niloymamun/niloymamun/blob/main/instragram.png" alt="https://www.instagram.com/neloy_mamun/" height="40" width="40" /></a>
+   <a href="https://www.instagram.com/neloy_mamun/" target="blank"><img align="center" src="https://github.com/niloymamun/niloymamun/blob/main/instagram.png" alt="https://www.instagram.com/neloy_mamun/" height="40" width="40" /></a>
    
 </p>
 
