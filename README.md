@@ -1,4 +1,4 @@
-https://t.me/+gbr6lhsArnVhMDU1
+
 <img src="./GIT.png" width="100%">
 <h1 align="center">Hi 👋, I'm ABDULLAH AL MAMUN</h1>
 <h3 align="center">Passionate Flutter Developer Building Beautiful Mobile Experiences 🚀" from Bangladesh</h3>
@@ -18,7 +18,8 @@ https://t.me/+gbr6lhsArnVhMDU1
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/neloy.mamun.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/neloy.mamun.1/" height="30" width="40" /></a>
    <a href="https://www.youtube.com/@codermamun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codermamun" height="30" width="40" /></a>
-   <a href="https://www.youtube.com/@codermamun" target="blank"><img align="center" src="<a target="_blank" href="https://icons8.com/icon/5mIvDYZUWDCF/telegram-logo">Telegram logo</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" alt="https://www.youtube.com/@codermamun" height="30" width="40" /></a>
+   <a href="https://t.me/+gbr6lhsArnVhMDU1" target="blank"><img align="center" src="https://github.com/niloymamun/niloymamun/blob/main/telegram.png" alt="https://t.me/+gbr6lhsArnVhMDU1" height="30" width="40" /></a>
+   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
